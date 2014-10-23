@@ -1,0 +1,3 @@
+Sample_Name	Tumor_Purity	Average_Ploidy
+ACOLD_p_TCGA_Batch17_SNP_N_GenomeWideSNP_6_C03_466124	0.738	2.648
+NEWLY_p_TCGA_Batch13_CN_GenomeWideSNP_6_D05_446170	0.700	3.355
